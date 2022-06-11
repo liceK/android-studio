@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/historic"
+        android:title="@string/historic"
+        app:showAsAction="never"/>
+    <item android:id="@+id/reset"
+        android:title="@string/reset"
+        app:showAsAction="never"/>
+
+</menu>
